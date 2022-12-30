@@ -17,7 +17,7 @@ La idea detrás de la solución es utilizar divisiones con restas iterativas. Se
 
 Simulacion con el numero primo 659, que su cuadrado seria 434281.
 
-#### ![Simulacion](https://user-images.githubusercontent.com/74619261/210030219-0d645189-c9c3-4e4a-9f9d-e1fdd0b883a3.png)
+<a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_1/Simulacion.png" width="661" height="293"/></a>
 
 
 
