@@ -3,9 +3,9 @@
 module FSM(
     input clk,
     input start,
-    input [7:0] A,
-    input [7:0] E,
-    input [7:0] K,
+    input [31:0] A,
+    input [31:0] E,
+    input [31:0] K,
     output reg Busy,
     output reg a1,
     output reg a2,

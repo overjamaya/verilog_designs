@@ -2,7 +2,7 @@
 
 module Data_path(
     input clk,
-    input [7:0] n,
+    input [31:0] n,
     input a1,
     input a2,
     input a3,
@@ -10,28 +10,28 @@ module Data_path(
     input a5,
     input a6,
     input a7,
-    output reg [7:0] A,
+    output reg [31:0] A,
     output reg P,
-    output reg [7:0] K,
-    output reg [7:0] E
+    output reg [31:0] K,
+    output reg [31:0] E
     );
     
     // restador a
-    wire [7:0] T1;
+    wire [31:0] T1;
     assign T1 = a1? A-K: n;
     
     always @(posedge clk)
      A <= T1;
      
     // registro de guardado E
-    wire [7:0] T2;
+    wire [31:0] T2;
     assign T2 = a4? E: A;
     
     always @(posedge clk)
      E <= T2; 
     
     // restador K
-    wire [7:0] T3,T4;
+    wire [31:0] T3,T4;
     assign T3 = a2? K: T4;
     assign T4 = a3? K-1: n-1;
     
@@ -53,7 +53,5 @@ module Data_path(
     
     always @(posedge clk)
      P <= T7; 
-    
-     
-     
+         
 endmodule

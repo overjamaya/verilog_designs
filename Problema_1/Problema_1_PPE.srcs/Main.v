@@ -2,14 +2,14 @@
 
 module Main(
     input Clk,
-    input [7:0] N,
+    input [31:0] N,
     input Start,
     output Busy_,
     output Salida
     );
     
     wire a1_,a2_,a3_,a4_,a5_,a6_,a7_;
-    wire [7:0] A_,E_,K_;
+    wire [31:0] A_,E_,K_;
     
     Data_path U1 (
     
