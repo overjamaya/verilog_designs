@@ -14,7 +14,7 @@ La idea detrás de la solución es utilizar divisiones con restas iterativas. Se
 | ![Problema_1 - ASM_FSM](https://user-images.githubusercontent.com/74619261/210031988-376ecdad-9dd6-47d8-96f1-f4383e40dbd6.png) | ![Problema_1 - Data_path_Tabla_RTL](https://user-images.githubusercontent.com/74619261/210032001-6d1c60c8-057d-4bec-9ed9-b14ddc3c92ed.png)  |
 
 ### Resultado:
-Si visitas la dirección github.com/overjamaya/Problema_1/, encontrarás un archivo llamado Problema_1_PPE.xpr que puedes ejecutar con Vivado. Además, en la carpeta github.com/overjamaya/Problema_1/Problema_1_PPE.srcs/, podrás encontrar las fuentes de diseño del data path, FSM y el Main. ¡Es una gran oportunidad para aprender y profundizar en el mundo de la ingeniería! Además, encontrarás una fuente de simulación que te mostrará el resultado final. ¡Disfruta explorando y aprendiendo más sobre este interesante tema!
+Si visitas la dirección https://github.com/overjamaya/Problema_1/, encontrarás un archivo llamado Problema_1_PPE.xpr que puedes ejecutar con Vivado. Además, en la carpeta https://github.com/overjamaya/Problema_1/Problema_1_PPE.srcs/, podrás encontrar las fuentes de diseño del data path, FSM y el Main. ¡Es una gran oportunidad para aprender y profundizar en el mundo de la ingeniería! Además, encontrarás una fuente de simulación que te mostrará el resultado final. ¡Disfruta explorando y aprendiendo más sobre este interesante tema!
 
 Simulacion con el numero primo 659, que su cuadrado seria 434281.
 
