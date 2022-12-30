@@ -1,4 +1,4 @@
-# DISEÑOS DE PROCESADORES DE PROPOSITO ESPECIFICO EN VERILOG COMO LENGUAJE DE DESCRIPCION 
+# DISEÑOS DE PROCESADORES DE PROPOSITO ESPECIFICO EN VERILOG. 
 
 ¡Bienvenidos a mi perfil de GitHub! Aquí encontrarás diseños de Verilog utilizando la herramienta vivado versión 2018.3 con sus respectivos diagramas ASM, Data path's y tablas RTL. Además, estaré subiendo próximamente explicaciones detalladas de cómo resolví cada uno de estos problemas en mi canal de YouTube. ¡Espero que disfrutes de mi contenido y no dudes en contactarme si tienes alguna pregunta o sugerencia!
 
