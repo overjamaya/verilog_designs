@@ -11,10 +11,8 @@ La idea detrás de la solución es utilizar divisiones con restas iterativas. Se
 
 ### Resultado:
 
-
 Simulacion con el numero primo 659, que su cuadrado seria 434281.
 
-<a href="https://user-images.githubusercontent.com/74619261/210030219-0d645189-c9c3-4e4a-9f9d-e1fdd0b883a3.png" target="_blank"> <img src="/images/toDo.png" width="700" height="300"/></a> 
 #### ![Simulacion](https://user-images.githubusercontent.com/74619261/210030219-0d645189-c9c3-4e4a-9f9d-e1fdd0b883a3.png)
 
 
