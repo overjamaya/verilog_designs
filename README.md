@@ -17,7 +17,7 @@ Este problema trata sobre diseñar un PPE que pueda decirme si un numero N es el
 ### Resultado:
 Si visitas [Click](https://github.com/overjamaya/verilog_designs/tree/main/Problema_1/), encontrarás un archivo llamado Problema_1_PPE.xpr que puedes ejecutar con Vivado. Además, en la carpeta [Click](https://github.com/overjamaya/verilog_designs/tree/main/Problema_1/Problema_1_PPE.srcs) , podrás encontrar las fuentes de diseño del data path, FSM y el Main. ¡Es una gran oportunidad para aprender y profundizar en el mundo de la ingeniería! Además, encontrarás una fuente de simulación que te mostrará el resultado final. ¡Disfruta explorando y aprendiendo más sobre este interesante tema!
 
-Simulacion con el numero primo 659, que su cuadrado seria 434281, 10 ms de simulacion, en la cual tardo mas o menos 6.3 ms para dar la respuesta.
+Simulacion con el numero primo 659, que su cuadrado seria 434281, 10 ms de simulacion, en la cual tardo aproximadamente 6.3 ms para dar la respuesta.
 
 <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_1/Simulacion.png" width="661" height="293"/></a>
 
