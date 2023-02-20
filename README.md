@@ -22,6 +22,10 @@ Simulacion con el numero primo 659, que su cuadrado seria 434281, 10 ms de simul
 <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_1/Simulacion.png" width="661" height="293"/></a>
 
 ### Problema 2:
-<h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Design_of_problem__2.png" width="683" height="512"/></a> </h1>
 
-### Designing...
+ <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Design_of_problem__2.png" width="683" height="512"/></a> </h1> 
+ 
+ <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Extension_problema__2.png" width="683" height="512"/></a> </h1>  
+
+
+### Diseñando...
