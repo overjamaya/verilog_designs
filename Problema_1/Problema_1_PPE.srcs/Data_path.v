@@ -39,8 +39,8 @@ module Data_path(
      K <= T3;
      
     // sumador C
-    wire [7:0] T5,T6;
-    reg  [7:0] C;
+    wire [31:0] T5,T6;
+    reg  [31:0] C;
     assign T5 = a6? C: T6;
     assign T6 = a5? C+1: 1;
     
@@ -53,5 +53,5 @@ module Data_path(
     
     always @(posedge clk)
      P <= T7; 
-         
+    
 endmodule
