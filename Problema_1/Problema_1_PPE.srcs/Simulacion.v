@@ -30,7 +30,7 @@ initial begin
 
 clk = 1'b1;
 
-N_ = 8'd49;
+N_ = 8'd49; // Salida = 1
 #6
 
 Start_ = 1'b1;
