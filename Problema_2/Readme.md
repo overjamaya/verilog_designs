@@ -14,7 +14,7 @@ Una vez finalizado el diseño del procesador, procedemos a abordar la extensión
 
 <h1 align="center">
  Esquema para modulo de memoria
- <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Imagenes/Memoria.png" width="725" height="252"/></a> </h1>  </h1>
+ <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Imagenes/Memoria_.png" width="725" height="252"/></a> </h1>  </h1>
  
  WE --> Habilitador de escritura
  
