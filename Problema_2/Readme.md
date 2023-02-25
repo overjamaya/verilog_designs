@@ -4,7 +4,7 @@ Este problema se refiere a la creación de un procesador de propósito específi
 
 <h1 align="center">
  Datapath de propósito general 
- <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Imagenes/Datapath.png" width="931" height="791"/></a> </h1>  </h1>
+ <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Imagenes/Datapath_.png" width="931" height="791"/></a> </h1>  </h1>
  
  <h1 align="center">
  Maquina de estados (FSM)
