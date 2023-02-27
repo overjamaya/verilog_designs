@@ -17,4 +17,4 @@ Video explicación: [Click](https://www.youtube.com/watch?v=6605f6Gnbd8)
  
  <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Imagenes/Extension_problema_2.png" width="683" height="512"/></a> </h1>  
  
- Video explicación: [Click](https://www.youtube.com/watch?v=66xxxxxxxx) 
+ Video explicación: [Click](https://youtu.be/NDSaj4DSN-A) 
