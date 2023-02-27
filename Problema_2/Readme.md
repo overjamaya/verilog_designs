@@ -20,7 +20,10 @@ Una vez finalizado el diseño del procesador, procedemos a abordar la extensión
  
 Este módulo funciona de la siguiente manera: para poder escribir en la memoria, se debe activar la señal WE. Si se desea leer algún dato en la memoria, la señal r_w debe ser igual a 1, lo que provoca que al pasar por el inversor, la señal WE llegue a cero y no se active la escritura. Además, la señal de salida del triestado, que es la señal Leer, no se coloca en alta impedancia y se conecta con la señal de datos, permitiéndonos enviar información a través de ella. Es importante destacar que la señal dir indica la posición en la memoria de la que se debe leer el dato. Por otro lado, si se quiere escribir en la memoria, se debe enviar un 0 a través de la señal r_w, lo que desconecta la señal Leer de la señal de datos mediante la alta impedancia del triestado. De esta manera, se puede escribir en la memoria. También es importante destacar que la señal dir indica la posición en la memoria donde se debe escribir el dato.
 
-### Simulación:
+### Resultado:
+
+Si visitas [Click](https://github.com/overjamaya/verilog_designs/tree/main/Problema_2/), encontrarás un archivo llamado Micro_8bits.xpr que puedes ejecutar con Vivado. Además, en la carpeta [Click](https://github.com/overjamaya/verilog_designs/tree/main/Problema_2/Micro_8bits.srcs) , podrás encontrar las fuentes de diseño del data path, FSM, Memoria, Main y la fuente de simulación. ¡Es una gran oportunidad para aprender y profundizar en el mundo de la ingeniería! Además, encontrarás una fuente de simulación que te mostrará el resultado final. ¡Disfruta explorando y aprendiendo más sobre este interesante tema!
+
 <h1 align="center"> <a href="https://github.com/overjamaya/verilog_designs/tree/main" target="_blank"> <img src="/Problema_2/Imagenes/Simulacion.png" width="1057" height="268"/></a> </h1>  </h1>
 
 Cabe aclarar que en las posicion de memoria 128 se guardo el dato 8'd4 y las posiciones de memoria 129, 130, 131 y 132 se guardo el dato 8'd2. 
